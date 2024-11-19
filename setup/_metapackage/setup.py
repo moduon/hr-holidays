@@ -11,6 +11,7 @@ setuptools.setup(
         'odoo-addon-hr_holidays_auto_extend>=16.0dev,<16.1dev',
         'odoo-addon-hr_holidays_leave_auto_approve>=16.0dev,<16.1dev',
         'odoo-addon-hr_holidays_natural_period>=16.0dev,<16.1dev',
+        'odoo-addon-hr_holidays_natural_period_public>=16.0dev,<16.1dev',
         'odoo-addon-hr_holidays_public>=16.0dev,<16.1dev',
         'odoo-addon-hr_holidays_public_city>=16.0dev,<16.1dev',
         'odoo-addon-hr_holidays_settings>=16.0dev,<16.1dev',

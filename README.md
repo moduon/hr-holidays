@@ -24,6 +24,7 @@ addon | version | maintainers | summary
 [hr_holidays_auto_extend](hr_holidays_auto_extend/) | 16.0.1.0.0 |  | Allow to extend some kind of holidays
 [hr_holidays_leave_auto_approve](hr_holidays_leave_auto_approve/) | 16.0.1.0.0 |  | Leave type for auto-validation of Leaves
 [hr_holidays_natural_period](hr_holidays_natural_period/) | 16.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Apply natural days in holidays
+[hr_holidays_natural_period_public](hr_holidays_natural_period_public/) | 16.0.1.0.0 |  | Allow excluding public holidays for natural days holidays
 [hr_holidays_public](hr_holidays_public/) | 16.0.2.0.2 |  | Manage Public Holidays
 [hr_holidays_public_city](hr_holidays_public_city/) | 16.0.2.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | HR Holidays Public City
 [hr_holidays_settings](hr_holidays_settings/) | 16.0.1.0.0 |  | Enables Settings Form for HR Holidays.
